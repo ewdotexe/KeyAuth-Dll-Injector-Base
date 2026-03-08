@@ -2,6 +2,7 @@
 
 
 Easy to use: Full Showcase + Tutorial (https://www.youtube.com/@ewdotexe)
+IF ANY ERRORS OCCUR DURING BUILD, MAKE SURE TO WATCH FULL VIDEO
 
 KeyAuth Website: https://keyauth.cc/
 
@@ -12,4 +13,3 @@ KeyAuth Website: https://keyauth.cc/
 -Change Process Name (Line 248)
 
 -Customize However
-
