@@ -2,6 +2,7 @@
 
 
 Easy to use: [Full Showcase + Tutorial](https://youtu.be/5M2zB1QuN8c) <- Click Here
+
 IF ANY ERRORS OCCUR DURING BUILD, MAKE SURE TO WATCH FULL VIDEO
 
 KeyAuth Website: https://keyauth.cc/
